@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "likes": 3000,
+      "title": " First, you have to love yourself.",
+      "body": "We all come from different backgrounds. Some of us grew up in a loving and encouraging family, and some of us didn't. We've probably all had some kind of relationship in our lives that has left us feeling hurt. You can't control your outside circumstances. I wish we could. What you can control is your own choices. It can be hard to love when you feel broken. If you don't come to any relationship (romantic, friendship, family) whole, you end up (1) asking others to fill in the broken pieces or (2) shutting them out completely. You first have to love yourself. Then, you can offer relationships your strengths rather than looking to them to fix your weaknesses. We all have the power to make this decision no matter what hand life has dealt us."
+    },
+    {
+      "id": 2,
+      "likes": 1050,
+      "title": "how have you been lately?",
+      "body": "We all come from different backgrounds. Some of us grew up in a loving and encouraging family, and some of us didn't. We've probably all had some kind of relationship in our lives that has left us feeling hurt. You can't control your outside circumstances. I wish we could. What you can control is your own choices. It can be hard to love when you feel broken. If you don't come to any relationship (romantic, friendship, family) whole, you end up (1) asking others to fill in the broken pieces or (2) shutting them out completely. You first have to love yourself. Then, you can offer relationships your strengths rather than looking to them to fix your weaknesses. We all have the power to make this decision no matter what hand life has dealt us."
+    },
+    {
+      "title": " Addicted 2 Success",
+      "body": "The mission to empower and inspire people by spreading knowledge of self-development and life changing stories to the world. It is a blog that primarily focuses on success advice, the majority of the content being motivational. This blog has already reached 54 million people worldwide in the past three years and is still counting. the founder of a blog that proves motivational to a large number of people does not himself believe in philosophy of motivation. Stephen says what he writes is 12% inspiration and 88% logic. Stephen Guise has written a book called ‘Mini Habits’ for anyone who is struggling with self-confidence.If you are better listener than a reader, then this one is for you. Fearless motivation is a great hub for motivational speeches. It was founded by Nick Macri. They have 4 million views on YouTube, and a tonne of great motivational content to check out.",
+      "likes": 920,
+      "id": 3
+    },
+    {
+      "title": "Mario Kart Live review",
+      "body": "The mission to empower and inspire people by spreading knowledge of self-development and life changing stories to the world. It is a blog that primarily focuses on success advice, the majority of the content being motivational. This blog has already reached 54 million people worldwide in the past three years and is still counting. the founder of a blog that proves motivational to a large number of people does not himself believe in philosophy of motivation. Stephen says what he writes is 12% inspiration and 88% logic. Stephen Guise has written a book called ‘Mini Habits’ for anyone who is struggling with self-confidence.If you are better listener than a reader, then this one is for you. Fearless motivation is a great hub for motivational speeches. It was founded by Nick Macri. They have 4 million views on YouTube, and a tonne of great motivational content to check out.",
+      "likes": 2169,
+      "id": 4
+    },
+    {
+      "title": " Next Big What",
+      "body": "Next Big What was started by an IIT Roorkee & IIM Bangalore graduate, Ashish Sinha in the year 2009 with a vision to lead youngsters on the road of entrepreneurship. It is the perfect place to grab information about new start-ups and to learn entrepreneurship lessons. It also provides information about latest happenings in the country. Motivational Memo was founded by Peter G. James Sinclair. It is one of the rare motivational blogs backed up by many years of experienced in business and writing. If you are willing to read posts in categories such as leadership, wisdom and wealth, then you are in the right direction. The Delhi based blogger, Harsh Agarwal is the founder of Shout Me Loud. He writes about Blogging, word press, SEO and Make Money Online. The blog was started in the year 2008 and is a part of the movement to liberate every human being from the 9-6 job. It is a community of enthusiastic bloggers who are popularly known as “shouters”.",
+      "likes": 0,
+      "id": 5
+    }
+  ],
+  "polls": [
+    {
+      "id": 1,
+      "question": "Do you prefer Vue or React?",
+      "answerA": "Vue",
+      "answerB": "React"
+    }
+  ]
+}
